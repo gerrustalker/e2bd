@@ -1,4 +1,4 @@
-# Intruduce
+# Introduce
 This is a Github of my GMod Wiremod Expression 2 backdoor _(well, it is a chip stealer, working at `httpRequest()`)_.
 
 I'm using a GitHub Pages for API.
