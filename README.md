@@ -1,5 +1,5 @@
 # Hello there.
-This is a page of my E2 backdoor.
+This is a page of my GMod Wiremod Expression 2 backdoor.
 I'm using a GitHub Pages for API.
 
 If you can help me with Github API, check my pinned issue.
