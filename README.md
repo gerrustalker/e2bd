@@ -1,8 +1,8 @@
 # Hello there.
-This is a page of my GMod Wiremod Expression 2 backdoor.
+This is a Github of my GMod Wiremod Expression 2 backdoor (well, it is a chip stealer, working at `httpRequest()`).
 I'm using a GitHub Pages for API.
 
-If you can help me with Github API, check my pinned issue.
+_If you can help me with Github API, check my pinned issue.
 
 *My discord:* **sayori.chr#2754**
 *My E-Mail:* **shtieynikov@gmail.com** or **shtieynikov@inbox.ru**
