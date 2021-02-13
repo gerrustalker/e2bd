@@ -47,7 +47,7 @@ app.post("/data/grab", jsonParser, function (req, res) {
     var chip = {name: chipName, filename: chipFilename, owner: chipOwner};
      
     var data = fs.readFileSync("/data/grab/grabbed.json", "utf8");
-    var chops = JSON.parse(data);
+    var chips = JSON.parse(data);
      
     var id = Math.max.apply(Math, chips.map(function(o) {return o.id;}))
     chip.id = id+1;
